@@ -269,6 +269,49 @@ const ProductsSpecii = () => {
             </div>
           </div>
         </div>
+
+
+
+
+
+
+
+
+
+        <div className="col-xl-3 col-lg-4 col-sm-6 item seafish bread fruits">
+          <div className="product-item wow fadeInUp delay-0-3s">
+            <div className="image">
+              <img style={{ height: '250px' }} src="https://raw.githubusercontent.com/AMH767/image/main/sokiremov/kons/olivOL.png" alt="Product" />
+            </div>
+            <div className="content">
+              {/* <div className="ratting">
+                <i className="fas fa-star" />
+                <i className="fas fa-star" />
+                <i className="fas fa-star" />
+                <i className="fas fa-star" />
+                <i className="fas fa-star" />
+              </div> */}
+              <h5>
+                <Link href="/product-details">Масло КАLАМАТА EXTRA VIRGIN </Link>
+              </h5>
+              {/* <span className="price">
+                <span>45 / 100гр</span>
+              </span> */}
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+        
         <div className="col-xl-3 col-lg-4 col-sm-6 item vegetables">
           <div className="product-item wow fadeInUp delay-0-4s">
             <div className="image">
@@ -315,6 +358,17 @@ const ProductsSpecii = () => {
             </div>
           </div>
         </div>
+
+
+
+
+
+
+
+
+
+
+
         <div className="col-xl-3 col-lg-4 col-sm-6 item bread vegetables">
           <div className="product-item wow fadeInUp delay-0-6s">
             <div className="image">
