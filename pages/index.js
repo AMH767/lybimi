@@ -238,6 +238,22 @@ const Index3 = () => {
                 </div>
               </div>
 
+              <div className="col-xl-3 col-lg-4 col-sm-6">
+                <div className="product-category-item wow fadeInUp delay-0-5s">
+                  <div className="image">
+                    <img
+                      src="https://raw.githubusercontent.com/AMH767/image/main/3.png"
+                      alt="Product"
+                    />
+                  </div>
+                  <div className="content">
+                    <h4>
+                      <Link href="/shop-konservi">Консервы</Link>
+                    </h4>
+                  </div>
+                </div>
+              </div>
+
 
               {/* МЯСНОЙ ОТДЕЛ */}
 

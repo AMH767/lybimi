@@ -16,5 +16,17 @@
     "files": [
       "static/chunks/src_components_istotope_TrendyProducts_js.js"
     ]
+  },
+  "shop-konservi.js -> ../src/components/istotope/ProductsKonservi": {
+    "id": "shop-konservi.js -> ../src/components/istotope/ProductsKonservi",
+    "files": [
+      "static/chunks/src_components_istotope_ProductsKonservi_js.js"
+    ]
+  },
+  "shop-specii.js -> ../src/components/istotope/ProductsSpecii": {
+    "id": "shop-specii.js -> ../src/components/istotope/ProductsSpecii",
+    "files": [
+      "static/chunks/src_components_istotope_ProductsSpecii_js.js"
+    ]
   }
 }
